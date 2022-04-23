@@ -2,9 +2,17 @@
 layout: page
 title: About
 permalink: /about/
----
+--
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my future home to document endeavors in the hardware and software space.
+
+Some topics to expect:
+* Mobile app development in Xamarin and React Native
+* C#, Java, Python
+* Microcontrollers, ESP32, Arduino, C
+* Hardware repurposing and reverse engineering
+
+This site is built with Jekyll.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
