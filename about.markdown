@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
---
+---
 
 This is my future home to document endeavors in the hardware and software space.
 
